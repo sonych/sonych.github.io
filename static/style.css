@@ -1,0 +1,28 @@
+
+#content {
+    padding-top: 100px;
+}
+
+#twitter {
+    content: url("img/soc_icons_dark/twitter.png");
+}
+
+#twitter:hover {
+    content: url("img/soc_icons_color/twitter.png");
+}
+
+#vkontakte {
+    content: url("img/soc_icons_dark/vkontakte.png");
+}
+
+#vkontakte:hover {
+    content: url("img/soc_icons_color/vkontakte.png");
+}
+
+#github {
+    content: url("img/soc_icons_dark/github.png");
+}
+
+#github:hover {
+    content: url("img/soc_icons_color/github.png");
+}
